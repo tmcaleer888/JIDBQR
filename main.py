@@ -83,3 +83,6 @@ def main():
             print("-" * 40)
         else:
             print("The name database is empty or all options were filtered out.")
+
+if __name__ == "__main__":
+    main()
