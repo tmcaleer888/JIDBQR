@@ -1,8 +1,6 @@
+#Name list for producing combined name. Add anything! 
+
 def get_realistic_names_pool():
-    """
-    Returns a curated list of real, common 3-to-7 letter names.
-    This acts as our dictionary database to ensure results are real names.
-    """
     return [
         "Amy", "Ada", "Ann", "Bob", "Ben", "Dan", "Don", "Eli", "Eva", "Ian", 
         "Jan", "Jon", "Jay", "Joy", "Leo", "Liz", "Max", "Mae", "Ned", "Ray", 
