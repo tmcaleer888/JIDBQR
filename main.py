@@ -1,3 +1,5 @@
+from names import get_realistic_names_pool
+
 def get_average_target(str1, str2):
     """Calculates the mathematical average of the ASCII sums of two strings."""
     sum1 = sum(ord(c) for c in str1)
